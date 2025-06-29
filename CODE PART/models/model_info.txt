@@ -1,0 +1,7 @@
+MNIST CNN Model Information
+==============================
+Final Test Accuracy: 0.9925 (99.25%)
+Total Parameters: 93,322
+Training Epochs: 10
+Batch Size: 128
+Model Type: Simple

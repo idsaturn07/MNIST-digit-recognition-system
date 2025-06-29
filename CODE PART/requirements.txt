@@ -1,0 +1,7 @@
+tensorflow>=2.10
+numpy
+opencv-python
+pillow
+streamlit
+streamlit-drawable-canvas
+scipy
