@@ -1,6 +1,5 @@
 # ✍️ MNIST Digit Recognition System
 
-![Project Banner](sample_predictions.png)  
 *An end-to-end deep learning solution for handwritten digit recognition*
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue)](https://www.python.org/)
